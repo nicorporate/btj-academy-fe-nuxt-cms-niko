@@ -1,4 +1,4 @@
-# CMS Website using Nuxt Js
+# CMS Website using Nuxt Js 
 
 ## Nuxt 3 Minimal Starter
 
